@@ -17,14 +17,14 @@ Proyek ini adalah program sederhana dalam Go untuk mengecek kecepatan internet d
 1. **Clone repositori:**
 
     ```sh
-    git clone https://github.com/username-anda/internet-speed-checker-go.git
-    cd internet-speed-checker-go
+    git clone https://github.com/guns-joy/check-response-url.git
+ cd check-response-url
     ```
 
 2. **Jalankan program:**
 
     ```sh
-    go run main.go
+    go run interface.go
     ```
 
 3. **Modifikasi URL:**
