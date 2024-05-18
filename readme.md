@@ -46,4 +46,4 @@ Proyek ini adalah program sederhana dalam Go untuk mengecek kecepatan internet d
     ```
 
 ## Contoh Output
-
+![Alt Text](https://s10.gifyu.com/images/SfTDm.jpg)
